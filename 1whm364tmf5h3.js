@@ -1,0 +1,4 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="0b4f8aba-5015-3035-78f4-2d0bce1c1f50")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,937553,(e,r,a)=>{r.exports={earn:"Earn",home:"Home",offers:"Offers",surveys:"Surveys",cashout:"Cashout",chat:"Chat",leaderboard:"Leaderboard",rewards:"Rewards",affiliates:"Affiliates",profile:"Profile",jackpot:"Jackpot",event:"Event",new:"New",signup:"Sign Up",game:"Game",app:"App",deposit:"Deposit",crypto:"Crypto",purchase:"Purchase",freetrial:"Free Trial",quiz:"Quiz",casino:"Casino",other:"Other",all:"All",myOffers:"My Offers",arcade:"Arcade"}}]);
+
+//# debugId=0b4f8aba-5015-3035-78f4-2d0bce1c1f50
