@@ -1,0 +1,29 @@
+{
+    "name": "Freecash",
+    "short_name": "Freecash",
+    "icons": [
+        {
+            "src": "/public/img/android-chrome-192x192.png?v=2",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/public/img/android-chrome-app-icon-512x512.png?v=2",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/public/img/android-chrome-landing-screen-512x512.png?v=2",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/?app=web",
+    "scope" : "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#01d676",
+    "background_color": "#161725",
+    "gcm_sender_id": "772342929499"
+}
