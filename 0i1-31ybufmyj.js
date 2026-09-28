@@ -1,0 +1,4 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="bc2d4252-6c40-083e-173f-5d933bc7ac67")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,100057,e=>{"use strict";var t=e.i(843476),r=e.i(271645);let s=/\b(href|src)=(["'])https?:\/\/(?:www\.)?freecash\.com((?:[/?#][^"']*)?)\2/gi,i=/<p\b[^>]*>(?:\s|&nbsp;|&#160;|<br\s*\/?>)*<\/p>/gi;var l=e.i(921097);e.s(["default",0,({content:e})=>{let a=(0,r.useMemo)(()=>{var t;return(0,l.sanitizeHtml)((t=e?e.replace(s,(e,t,r,s)=>{let i=s?s.startsWith("/")?s:`/${s}`:"/";return`${t}=${r}${i}${r}`}):e)?t.replace(i,""):t)},[e]);return(0,t.jsx)("div",{className:"prose-policy",dangerouslySetInnerHTML:{__html:a}})}],100057)}]);
+
+//# debugId=bc2d4252-6c40-083e-173f-5d933bc7ac67
